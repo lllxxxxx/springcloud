@@ -25,5 +25,11 @@ management:
     web:
       exposure:
         include: "*"
+  #rabbitmq相关配置 15672是Web管理界面的端口；5672是MQ访问的端口<----------------------
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: guest
+    password: guest
 
 

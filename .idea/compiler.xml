@@ -13,8 +13,10 @@
         <module name="pro6-cloud-consumerzk-order80" />
         <module name="pro12-cloud-consumer-hystrix-dashboard9001" />
         <module name="pro13-cloud-gateway-gateway9527" />
+        <module name="pro18-cloud-stream-rabbitmq-consumer8802" />
         <module name="pro2-cloud-eureka-server7001" />
         <module name="pro5-cloud-provider-apyment8004" />
+        <module name="pro17-cloud-stream-rabbitmq-provider8801" />
         <module name="pro4-cloud-provider-payment8002" />
         <module name="pro10-cloud-provider-hystrix-payment8001" />
         <module name="pro1-cloud-api-commons" />
